@@ -10,7 +10,7 @@ apm install language-markdown-hashtags
 ```
 
 
-##### Note
+#### Note
 
 This pull request will improve hashtag detection at the beginning of the lines:
 https://github.com/atom/language-gfm/pull/222
