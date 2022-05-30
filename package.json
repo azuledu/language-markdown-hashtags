@@ -6,7 +6,7 @@
     "language",
     "grammar"
   ],
-  "repository": "https://github.com/atom/language-markdown-hashtags",
+  "repository": "https://github.com/azuledu/language-markdown-hashtags",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
