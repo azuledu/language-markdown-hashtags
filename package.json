@@ -1,0 +1,14 @@
+{
+  "name": "language-markdown-hashtags",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for hashtags in Markdown.",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/atom/language-markdown-hashtags",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
