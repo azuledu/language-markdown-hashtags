@@ -8,7 +8,8 @@ Syntax highlighting for hashtags in Markdown.
 ## Install
 
 ```
-apm install language-markdown-hashtags
+apm install language-markdown-hashtags  # Atom
+ppm install language-markdown-hashtags  # Pulsar
 ```
 
 
